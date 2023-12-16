@@ -12,7 +12,7 @@ const iniciaroupausarbticone = document.querySelector('.app__card-primary-butto-
 const temponatela = document.querySelector('#timer')
 
 
-const musica = new Audio('sons/luna-rise-part-one.mp3')
+const musica = new Audio('sons/musicas.mp4')
 const musicabeep = new Audio('sons/beep.mp3')
 const musicaplay = new Audio('sons/play.wav')
 const musicapause = new Audio('sons/pause.mp3')
